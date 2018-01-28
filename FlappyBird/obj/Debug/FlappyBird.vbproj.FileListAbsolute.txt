@@ -1,0 +1,21 @@
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\FlappyBird\bin\Debug\FlappyBird.xml
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\FlappyBird\obj\Debug\FlappyBird.Resources.resources
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\FlappyBird\obj\Debug\FlappyBird.vbproj.GenerateResource.Cache
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\FlappyBird\obj\Debug\FlappyBird.xml
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\FlappyBird\obj\Debug\FlappyBird.pdb
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\obj\Debug\FlappyBird.xml
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\bin\Debug\FlappyBird.xml
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Resources.resources
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\obj\Debug\FlappyBird.vbproj.GenerateResource.Cache
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\obj\Debug\FlappyBird.AboutBox1.resources
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\obj\Debug\FlappyBird.vbprojResolveAssemblyReference.cache

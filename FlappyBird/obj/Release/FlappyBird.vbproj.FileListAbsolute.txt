@@ -1,0 +1,12 @@
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\bin\Release\FlappyBird.exe.config
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\obj\Release\FlappyBird.AboutBox1.resources
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\obj\Release\FlappyBird.Form1.resources
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\obj\Release\FlappyBird.Resources.resources
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\obj\Release\FlappyBird.vbproj.GenerateResource.Cache
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\bin\Release\FlappyBird.exe
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\bin\Release\FlappyBird.pdb
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\bin\Release\FlappyBird.xml
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\obj\Release\FlappyBird.exe
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\obj\Release\FlappyBird.xml
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\obj\Release\FlappyBird.pdb
+D:\Visual-Studio\VB.Net\FlappyBird\FlappyBird\obj\Release\FlappyBird.vbprojResolveAssemblyReference.cache
